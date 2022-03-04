@@ -1,0 +1,4 @@
+1	Day la dong text thu nhat
+2	Day la dong text thu hai
+3	Va day la dong text thu ba
+4	Ten toi la Le Duc Son

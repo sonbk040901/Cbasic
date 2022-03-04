@@ -1,0 +1,5 @@
+boss1     20   5    3    2
+boss2     30   3    1    2
+boss3     1   6    3    2
+boss4     2   4    2    2
+boss5     2   6    2    2

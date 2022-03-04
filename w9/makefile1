@@ -1,0 +1,6 @@
+b1: b1.o B1.o
+	gcc -o b1 b1.o B1.o -lm
+b1.o: b1.c B1.h
+	gcc -c b1.c -lm
+B1.o: B1.c B1.h
+	gcc -c B1.c -lm

@@ -1,0 +1,9 @@
+A: 3
+AND: 1
+BLACK: 2
+CAT: 1
+MOUSE: 2
+SAW: 1
+SCARED: 1
+SMALL: 1
+VERY: 2
